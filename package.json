@@ -1,0 +1,28 @@
+{
+  "name": "guacamole",
+  "version": "0.0.1",
+  "description": "A great starting point for writing web-apps using an Express-powered node.js server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyBoon/guacamole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyBoon/guacamole/issues"
+  },
+  "homepage": "https://github.com/MyBoon/guacamole#readme",
+  "dependencies": {
+    "express-favicon": "^1.0.1",
+    "express-sitemap": "^1.6.3",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "glob": "^5.0.15",
+    "path": "^0.12.7",
+    "swig": "^1.4.2"
+  }
+}
